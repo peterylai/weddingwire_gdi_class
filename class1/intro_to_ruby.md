@@ -198,6 +198,4 @@ puts "This is not a comment so it will run"
 
 ---
 
-
-
 For for information, read chapters 1-6 of [Chris Pine's Learn to Program](https://pine.fm/LearnToProgram/)
