@@ -5,7 +5,7 @@
 - Peter Lai 
 - Brett Wallace
 
-####Course Goals
+####Course Goals:
 - Build confidence in your ability to program
 - Create a working web application with Ruby
 - Define the roadmap to continue learning
