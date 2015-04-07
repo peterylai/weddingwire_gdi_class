@@ -57,7 +57,7 @@ First let's explore the basic data types of Ruby, their uses, and dot notation. 
 A string of characters forming words and phrases, ie: text. These are always wrapped in single or double quotes (the opposite quote type may be nested):
 
 ```
-"Alastair's Birthday"
+"Alastair's cats"
 'Brett "Danger" Wallace'
 ```
 
