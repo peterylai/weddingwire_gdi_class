@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  font-size: 20px;
+  margin: 0 10px;
+}
+
+a {
+  color: #805743;
+  text-decoration: none;
+}
