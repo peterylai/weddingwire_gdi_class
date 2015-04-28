@@ -14,5 +14,5 @@
 - Class 1 - Intro to Ruby
 - Class 2 - Ruby Conditionals & Arrays
 - Class 3 - Intro to Web Applications
-- Class 4 - Ruby on Rails
+- Class 4 -  Web Applications Lab & Ruby on Rails Preview
 
