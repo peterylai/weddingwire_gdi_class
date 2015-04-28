@@ -7,9 +7,6 @@
 - Pass information to a view using an instance variable.
 - Evaluate Ruby in a view using ERB
 
-- Describe what Ruby on Rails is and why it is so popular
-- Identify a few resources to use to continue learning
-
 ---
 
 ### Forms

@@ -1,5 +1,9 @@
 ## What is Rails?
 
+### Objectives
+- Describe what Ruby on Rails is and why it is so popular
+- Identify a few resources to use to continue learning
+
 #### Answer these questions
 - What is it?
 - What problem does it solve?
@@ -29,7 +33,6 @@
   - Testing
   - Environments
   - Rake Tasks
-
 
 #### Where to learn Rails
 
